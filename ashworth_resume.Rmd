@@ -1,0 +1,249 @@
+---
+title: "James B Ashworth resume"
+author: James B Ashworth
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> james.b.ashworth@gmail.com
+- <i class="fa fa-github"></i> [github.com/james_ashworth](https://github.com/james-b-ashworth)
+- <i class="fa fa-phone"></i> +1 919-360-2409
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Full experience in forecasting financials and marketing defined customer bases.
+
+- Highly skilled in R, Python, and SQL languages.
+
+- Experienced in Tableau, Toad, PowerBI, and Office applications.
+
+- Highly effective in process improvement, needs assessment, communication, and adapability.
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+James B Ashworth {#title}
+--------------------------------------------------------------------------------
+
+### Senior, Advanced Analytics
+
+I need to update this If you are
+interested in my background and skills, please feel free to contact me.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Georgia Institute of Technology
+
+M.S. in Data Analytics
+
+Atlanta, Georgia
+
+2023 (Expected)
+
+Thesis: To Be Determined
+
+### Kennesaw State University
+
+B.S. in Computational and Applied Mathematics
+
+Kennesaw, Georgia
+
+2021
+
+Minor: Statistics
+
+### University of Phoenix
+
+M.S. in Accounting
+
+Raleigh, North Carolina
+
+2011
+
+### University of Phoenix
+
+B.S. in Accounting
+
+Raleigh, North Carolina
+
+2009
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Senior, Advanced Analytics
+
+AT&T
+
+Atlanta, Georgia (Remote)
+
+2021 - Present
+
+::: concise
+- Taught R language to beginners. 
+- Wrote Shiny app demos.
+- Converted statistical tutorials from SPSS to R language.
+:::
+
+### Lead Financial Systems Analyst
+
+AT&T
+
+Atlanta, Georgia
+
+2017 - 2021
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+### Lead Strategic Pricing Manager
+
+AT&T
+
+Atlanta, Georgia
+
+2015 - 2017
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+### Lead Financial Analyst
+
+AT&T
+
+Atlanta, Georgia
+
+2011 - 2015
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+### Senior Financial Analyst
+
+AT&T
+
+Atlanta, Georgia
+
+2009 - 2011
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+### Retail Operations Analyst, Auditor
+
+AT&T
+
+Raleigh, North Carolina
+
+1999 - 2009
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+### Retail Sales Associate
+
+AT&T
+
+Wilson, North Carolina
+
+1997 - 1999
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Beijing, China
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+Qingdao, China
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
