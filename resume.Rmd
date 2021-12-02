@@ -6,7 +6,7 @@ output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-# uncomment this line to produce HTML and PDF in RStudio:
+# uncomment this line to produce HTML and PDF in RStudio: 
 knit: pagedown::chrome_print
 ---
 
@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![](https://github.com/james-b-ashworth/resume.md/blob/main/staticon.png){width=80%}
+![James Ashworth](dsicon.png){width=80%}
 
 
 Contact Info {#contact}
@@ -217,27 +217,3 @@ Instructor of PowerBI for Accounting and Customer Experience Teams
 Atlanta, Georgia
 
 2021
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
-
