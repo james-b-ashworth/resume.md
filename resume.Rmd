@@ -7,8 +7,23 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio: 
+# Automation Link, remember that xlsx to save as csv:  https://github.com/nstrayer/datadrivencv
 knit: pagedown::chrome_print
 ---
+
+```{css, echo=FALSE}
+.aside {
+  padding-top: 0;
+}
+
+.aside > p:first-of-type {
+  margin-top: 0;
+}
+
+.aside {
+  padding-left: 20;
+}
+```
 
 Aside
 ================================================================================
