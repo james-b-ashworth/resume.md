@@ -41,7 +41,7 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Full experience in forecasting financials and marketing defined customer bases.
+- Accomplished in forecasting financials and marketing defined customer bases.
 
 - Highly skilled in R, Python, and SQL languages.
 
@@ -123,7 +123,7 @@ Atlanta, Georgia (Remote)
 
 ::: concise
 - Utilize basic machine learning to build models supporting customer experience improvement decisions.
--	Communicate findings and recommendations using visuals to business leaders.
+-	Communicate findings and recommendations to business leaders using visuals.
 -	Identify, collect, and explore internal and external data sources to predict behavior for solving customer experience issues.
 -	Built predictive models quantifying significance of data variances on ATT’s big data for customer experiences.
 :::
