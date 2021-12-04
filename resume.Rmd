@@ -19,10 +19,6 @@ knit: pagedown::chrome_print
 .aside > p:first-of-type {
   margin-top: 0;
 }
-
-.aside {
-  padding-left: 20;
-}
 ```
 
 Aside
@@ -70,9 +66,9 @@ James B Ashworth {#title}
 
 ### Senior, Advanced Analytics
 
-I need to update this If you are
-interested in my background and skills, please feel free to contact me.
+An enterprising finance leader with a penchant for accelerating business growth, I am a business operations expert focused on optimizing the customer experience.
 
+As my executive data analytics career continues to evolve, I remain steadfast in my belief that collaboration is the key to business success. On a daily basis, I am committed to building positive relationships with my customers, analytics' peers, C-level clients, and vendors. It is through these bonds that deals are closed and relationships are strengthened. My track record includes a strong talent for building a loyal base of customers and delivering top-level performance—these skills allow me to support sustainable growth so that a company can fully thrive. 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
