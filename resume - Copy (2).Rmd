@@ -1,0 +1,256 @@
+---
+title: "James B Ashworth resume"
+author: James B Ashworth
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio: 
+# Automation Link, remember that xlsx to save as csv:  https://github.com/nstrayer/datadrivencv
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+
+```
+
+Aside
+================================================================================
+
+![James Ashworth](dsicon.png){width=80%}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> james.b.ashworth@gmail.com
+- <i class="fa fa-linkedin-square" aria-hidden="true"></i> [linkedin.com/james_ashworth](http://www.linkedin.com/in/james-ashworth-11514348)
+- <i class="fa fa-github"></i> [github.com/james_ashworth](https://github.com/james-b-ashworth)
+- <i class="fa fa-phone"></i> +1 919-360-2409
+- For more information, please contact me via email.
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Expert in statistical methods & machine learning for forecasting.
+
+- Proficient in crafting & presenting data-driven business cases.
+
+- Mastery of R, Python, Snowflake, SQL for complex data analysis.
+
+- Skilled in Tableau, Power BI, Toad for impactful data visualization.
+
+- Experienced in process improvement, needs assessment, clear communication.
+
+- Adaptability in dynamic environments for continuous improvement.
+
+Main
+================================================================================
+
+James B Ashworth {#title}
+--------------------------------------------------------------------------------
+
+### Lead, Advanced Analytics
+
+With over 25 years of experience at AT&T, I am a seasoned Data Analyst with a Bachelor's degree in Mathematics and a Master's degree in Data Analytics (2024). My dedication to this field is demonstrated by my extensive tenure, during which I have specialized in analytics and forecasting for the past 10 years.
+
+My passion lies in harnessing the power of data to drive strategic decisions. I derive satisfaction from transforming complex datasets into clear, actionable insights that propel business growth. I am not only proficient in traditional analytics but also constantly exploring advanced methodologies to refine my analytical capabilities.
+
+I am now seeking to delve deeper into advanced analytics. I believe that this will not only allow me to further enhance my skill set but also provide more comprehensive and nuanced solutions to complex data problems.
+
+I am confident that my blend of experience, technical expertise, and fervor for data makes me a strong contender for an advanced analytics role. I am eager to discuss how my background and skills would be a great fit for your organization and contribute to your team's success.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Georgia Institute of Technology
+
+M.S. in Data Analytics
+
+Atlanta, Georgia
+
+2024 (Expected)
+
+
+### Kennesaw State University
+
+B.S. in Computational and Applied Mathematics
+Minor In Statistics
+
+Kennesaw, Georgia
+
+2021
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Lead, Advanced Analytics
+
+AT&T
+
+Atlanta, Georgia (Hybrid)
+
+2021 - Present
+
+::: concise
+- Leveraged machine learning techniques to develop predictive models supporting decisions aimed at enhancing customer experience.
+-	Communicated key findings and recommendations to business leaders through visually appealing presentations, facilitating better understanding and informed decision-making.
+-	Identified, collected, and analyzed internal and external data sources to predict customer behavior and address issues affecting customer experience.
+- Automated all dashboards, enabling seamless access to data regardless of location or availability, while also streamlining the creation process to allocate more time for new requests and project development. This initiative significantly improved efficiency and reduced manual effort in reporting maintenance empowering the team with easy access to essential data for day-to-day operations and deeper analysis..
+:::
+
+### Lead, Financial Systems Analyst
+
+AT&T
+
+Atlanta, Georgia (Hybrid)
+
+2017 - 2021
+
+::: concise
+-	Automated manual reporting processes, reducing monthly workload and streamlining operations by transitioning 30+ reports to automated systems, resulting in significant time and resource savings. 
+-	Created a validation tool from scratch to ensure accuracy and integrity of financial data, validating GL posted numbers against raw biller data to guarantee proper revenue accounting and compliance. 
+-	Manage all phases of financial system maintenance, from design and development to implementation, testing, and ongoing support, ensuring compliance with industry standards and best practices.
+- Develop innovative solutions to address financial systems issues, collaborating with cross-functional teams to implement new features and enhancements.
+:::
+
+### Lead, Strategic Pricing Manager
+
+AT&T
+
+Atlanta, Georgia
+
+2015 - 2017
+
+::: concise
+-	Develop detailed subscriber forecasts by rate plan, device type, and household, leveraging advanced data analytics to understand subscriber migrations and behaviors among all current product offerings for 100M subscribers.
+-	Collaborate with cross-functional analytics teams to share insights, align strategies, and develop synergies to increase overall organizational value.
+-	Deliver comprehensive mid-monthly and monthly reporting and analysis of key findings, providing valuable insights instrumental to multi-year strategic planning, revenue projections, risk identification, and revenue generation opportunities.
+- Construct and optimize reporting tools, price recommendations, regulatory compliance strategies, and innovative product creation initiatives to drive revenue growth and ensure organizational success.
+:::
+
+### Lead, Financial Analyst
+
+AT&T
+
+Atlanta, Georgia
+
+2011 - 2015
+
+::: concise
+-	Spearheaded the redevelopment of the 2013/2014 Subsidy and Commissions planning process, including modeling, forecasting, and results tracking, resulting in a significant $12 billion annual impact on the company's profit and loss (P&L) statement. The previous forecasting model was dysfunctional, requiring a 6+ week timeline and a team of 5 to generate a single forecast. With my new model, the process was streamlined to three days for a team of three.
+-	Developed the 2012 Operation Initiative Dashboards for the Paul Roth organization to measure, track, and evaluate the effectiveness of implementing operation initiatives across all 2300 locations.
+-	Partnered with the Retail Sales Organization to develop a ‘Margin Initiative Dashboard’ tracking the operational effectiveness of 2,300+ Retail Stores against 14 specific metrics, resulting in anticipated annual expense savings exceeding $50 million.
+- Improved monthly forecasts by streamlining the creation process of complex monthly models and automating the identification of irregularities, resulting in a $1 billion monthly P&L impact for subsidy and commissions.
+- Operated as a lead analyst for two senior financial analysts, providing ongoing training on new reporting concepts, financial modeling, and advancing their knowledge of AT&T’s business.
+:::
+
+### Senior, Financial Analyst
+
+AT&T
+
+Atlanta, Georgia
+
+2009 - 2011
+
+::: concise
+-	Acted as the group contact for internal audit relations, providing necessary resources for all financial audits related to company-owned retail stores.
+-	Played a key role in the production of accurate and timely reports meeting HQ requirements, containing sensitive and confidential records.
+-	Developed new reports and dashboards to provide auditors with fresh areas for review in retail environments, balancing cost-effectiveness with a positive customer experience.
+-	Effectively communicated complex processes to employees at all levels, ensuring consistent achievement of audit results.
+:::
+
+### Retail Operations Analyst, Auditor
+
+AT&T
+
+Raleigh, North Carolina
+
+1999 - 2009
+
+::: concise
+-	Successfully identified and addressed misuse of bill credits, resulting in a 63% reduction and implementation of new operational procedures that led to a $50 million annual reduction in discounts for company store handset sales.
+-	Conducted thorough audits for each assigned AT&T location, ensuring compliance with policies and procedures, including cash reviews, inventory counts, and internal controls verifications.
+-	Developed key reports such as the National Discount Report and National Return Report for AT&T Wireless, aiding in the identification of high instances of discounts and unusual returns while ensuring compliance with corporate SOX requirements.
+-	Collaborated with the Asset Protection team to identify and interpret local fraud issues, leveraging expertise in AT&T Wireless’ billing systems and data mining techniques.
+-	Played a pivotal role in resolving financial discrepancies and operational challenges at retail locations, including cash overages/shortages, material bank reconciliation write-offs, and inventory shortages/write-offs.
+:::
+
+### Retail Sales Associate
+
+AT&T
+
+Wilson, North Carolina
+
+1997 - 1999
+
+::: concise
+- Enhanced average monthly sales by an impressive 803% from 1997 to 1999.
+- Provided comprehensive information on products, accessories, service features, pricing plans, roaming, and data to potential customers, ensuring informed decision-making.
+- Scheduled and coordinated installations and repairs, ensuring efficient service delivery and customer satisfaction.
+:::
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Georgia Institute of Technology
+
+Instructor for Visualizing Data Analytics in Business.
+
+Atlanta, Georgia
+
+2022 - Current
+
+### ATT CELL
+
+Instructor of ChatBots in Python.
+
+Atlanta, Georgia
+
+2023 - Current
+
+### ATT CELL
+
+Instructor of Introduction To PowerBI
+
+Atlanta, Georgia
+
+2021 - Current
+
+Additional Education {#certifications}
+--------------------------------------------------------------------------------
+
+### Six Sigma
+
+Black Belt
+
+Atlanta, Georgia
+
+2023
+
+### Six Sigma
+
+Yellow Belt
+
+Atlanta, Georgia
+
+2023
+
+### University of Phoenix
+
+M.S. in Accounting
+
+Raleigh, North Carolina
+
+### University of Phoenix
+
+B.S. in Accounting
+
+Raleigh, North Carolina
